@@ -415,6 +415,11 @@ easy to fork and contribute any changes back upstream.
     ```sh
     pyenv install 2.7.8
     ```
+   To get a list of available versions, run:
+    ```sh
+    pyenv install -l
+    ```
+
    **NOTE:** If you need to pass a `configure` option to a build, please use the
    ```CONFIGURE_OPTS``` environment variable.
 
